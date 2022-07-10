@@ -31,7 +31,7 @@ keys.addEventListener("click", e => {
             console.log('clear key!')
         }
 
-        if (action === 'calculate') {
+        if (action === 'calcular') {
             console.log('equal key!')
         }
     };
