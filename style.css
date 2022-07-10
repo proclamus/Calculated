@@ -57,3 +57,16 @@ button:active {
 	position:relative;
 	top:1px;
 }
+
+body{
+    background: #000;
+}
+
+.calculadora {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
