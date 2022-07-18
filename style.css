@@ -143,6 +143,7 @@ body{
   .botao-menu{
   letter-Spacing: 1pt;
   font-size: 16px;
+  
   font-family: Helvetica Neue;
   font-weight: 900;
   font-style: normal;
@@ -152,6 +153,19 @@ body{
   background: linear-gradient(#fe1a00,#ce0100);
   text-shadow: 0 1px 0 rgba(255,255,255,.2);
   color: #f8f8ff;
+  }
+  .botao-menu:hover{
+    
+      background:linear-gradient(to bottom, #ce0100 5%, #fe1a00 100%);
+      background-color:#ce0100;
+    
+    
+  }
+  .botao-menu:active{
+   
+      position:relative;
+      top:1px;
+    
   }
   
 
